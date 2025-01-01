@@ -1,10 +1,10 @@
-# 🎥 Movie Recommendation System
+# Movie Recommendation System
 
 A data-driven project that explores movie metadata to derive key insights about IMDb scores, languages, and revenue-generating movies. This project demonstrates the use of data analysis and visualization techniques to analyze trends and highlight patterns in the movie industry.
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Exploratory Data Analysis**  
   - Analyze datasets with descriptive statistics and visualizations.
